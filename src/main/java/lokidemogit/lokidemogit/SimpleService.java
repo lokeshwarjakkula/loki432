@@ -22,6 +22,8 @@ package lokidemogit.lokidemogit;
 public class SimpleService {
 	
 	public String  helloService(String msg){
+
+		//testBranch adding
 		return "Hello "+ msg;
 	}
 
